@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9f9c4526e1034094dbd79f32245580df
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SilverAge UC BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3b5de1d22f321f64683237b74332b661, type: 3}
+  - {fileID: 12800000, guid: b342d339e94bb3840835c5194175e474, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

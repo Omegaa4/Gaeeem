@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5c6301f5cc2123e4caf597e600a1cf70
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HoneyMead BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d513c703e6237034686f57d941e70d09, type: 3}
+  - {fileID: 12800000, guid: 3349d421326e08144b7b6beb6118c305, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

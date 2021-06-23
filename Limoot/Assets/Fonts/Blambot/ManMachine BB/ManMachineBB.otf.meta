@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 074388aafa6d8574ea56ca9110e434d8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ManMachine BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a63195fbe971879459d4b54095a10d19, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

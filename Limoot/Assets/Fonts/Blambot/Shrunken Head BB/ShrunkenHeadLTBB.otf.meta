@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cf13d784e01726447a902f5c52d41878
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Shrunken Head LT BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5d972d7e8e6b3c04c8931e0578813a5a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

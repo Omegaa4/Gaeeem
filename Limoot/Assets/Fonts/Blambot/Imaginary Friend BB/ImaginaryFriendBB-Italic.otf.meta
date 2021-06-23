@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: dda7c282ac722c8428231c97ba293aa0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Imaginary Friend BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8df42e45bf2fb6d4abfca787bf107750, type: 3}
+  - {fileID: 12800000, guid: d41bb1167d5a3c7429746d729eeb49ef, type: 3}
+  - {fileID: 12800000, guid: b549771ab40777f44b46ea68d1dabbec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

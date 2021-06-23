@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 74af3d794b2e2ad4e9c8dd5ffb79e51f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GiantSizedSpectacular Script BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 23ae9ec0adad7384faa3e67a28580c05, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

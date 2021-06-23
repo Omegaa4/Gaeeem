@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5a90e808b1c51304183b78683bfcc4ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - OldCrone BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 88f3135b7f4dc3448a7cfe7b7407e8c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

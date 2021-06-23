@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 86148f94f24730e4ea5cf17e6085c8be
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Irezumi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 166cc4aaed8ad48449bff4e3020d44c1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

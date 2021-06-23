@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fbd79f573c680364aac9b08c632d5955
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - WebLetterer BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 259444eddd83e144686a26bbb7082687, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

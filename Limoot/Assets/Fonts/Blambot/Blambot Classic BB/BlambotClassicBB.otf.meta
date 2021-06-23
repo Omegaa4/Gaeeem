@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cf7dc2155bbbede40a9857080432a564
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Blambot Classic BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 585a99839309a634eab80402ad404690, type: 3}
+  - {fileID: 12800000, guid: 5e72116fd2ad6cf4c8d6d0d586ddc130, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

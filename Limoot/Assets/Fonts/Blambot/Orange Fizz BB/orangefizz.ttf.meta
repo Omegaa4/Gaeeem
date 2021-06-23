@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b970c154ccf5275478ca997aa57e6dd6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Orange Fizz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7077342882e297949a3b0df9fea6e357, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c92ea9f9010ebed4180091290a04d3b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - UltraViolent BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e1e079fca909e4c42ab54cb7c2416140, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

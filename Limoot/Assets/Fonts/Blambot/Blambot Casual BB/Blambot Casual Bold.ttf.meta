@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0d1f56d54ae34b642a1bbf827bc63b54
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Blambot Casual
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 298d85fead2f09b409383960a604546c, type: 3}
+  - {fileID: 12800000, guid: 093e0404405c6e6498c2c95fbc10b15d, type: 3}
+  - {fileID: 12800000, guid: 52f46cdc98269234396e1f4262fb6af4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

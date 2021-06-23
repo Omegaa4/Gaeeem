@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 28c7a9b293e744a4c88cb216bbe52f0c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ArtistsAlley BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 566aef698b16a2d499afba4cb1cf822c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

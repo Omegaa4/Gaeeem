@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5f09eb7d4dcbae94cb2ad8b4e84b75e8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FriendorFoeTallBB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5bc0de2f62f524d4fa8ede9b934f54ba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

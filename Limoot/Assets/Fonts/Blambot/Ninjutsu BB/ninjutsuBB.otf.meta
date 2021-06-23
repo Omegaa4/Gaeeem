@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ff2ac58fea88dae4bb4c3b375ebdac0e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ninjutsu BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20cd8608411b209458d06de61a78544c, type: 3}
+  - {fileID: 12800000, guid: 280b921f1fb5ac54b90414cea9e05f56, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

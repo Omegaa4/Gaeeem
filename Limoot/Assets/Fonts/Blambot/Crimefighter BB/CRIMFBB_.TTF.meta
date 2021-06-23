@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0937c4a975aca664dbbb23fc5736f880
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CrimeFighter BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 800771f01199be449bb589d549893d5c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
