@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: af251468e9f7c414194b658cefc3af04
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sketchpad Note
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 282a324fc08148d4690bb3095f28356d, type: 3}
+  - {fileID: 12800000, guid: 3f6066110fbc17d4888cba0b7d5e840c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

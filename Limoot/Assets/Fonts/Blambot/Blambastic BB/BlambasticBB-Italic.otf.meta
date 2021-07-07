@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4bc4b336a6cc4ff48a1a50c83e09668a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BlambasticBB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eacdd4b6f672a9e4fb628358be89731a, type: 3}
+  - {fileID: 12800000, guid: c141ed31624bcc4468d1919388eebd0d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

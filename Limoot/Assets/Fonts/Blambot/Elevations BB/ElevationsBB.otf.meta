@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 79a02f8c2e5ec7c4ab07ee0242d2cd0f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Elevations BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 90709aab4d406be4693a0b6a756467c1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

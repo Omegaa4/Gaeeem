@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6caf3507f9d96c24a822b6af1fee9929
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Astounder Squared LC BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 526960dc31d97ae498c3e26825d8144f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

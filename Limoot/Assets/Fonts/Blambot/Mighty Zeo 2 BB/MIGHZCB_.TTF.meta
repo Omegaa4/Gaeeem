@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3aef14469649c754c98e15ce79c04e6f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mighty Zeo Caps 2.0
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d9d1491f92ce0534a87e643596f83e4e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

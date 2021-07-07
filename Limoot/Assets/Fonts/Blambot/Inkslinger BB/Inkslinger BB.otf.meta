@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f7928ff8f952007498c346262ec9f5d5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Inkslinger BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c2a4cb745aadcab42afa5b9cdb627271, type: 3}
+  - {fileID: 12800000, guid: 37f9beaf13f620e458012fff1fd2c8f5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

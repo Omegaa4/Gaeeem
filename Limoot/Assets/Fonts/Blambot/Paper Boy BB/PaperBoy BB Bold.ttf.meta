@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8d516ba6c66a82547a5bb1b54bfce502
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PaperBoy BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f128853568b9c604c83a29ec22e9f562, type: 3}
+  - {fileID: 12800000, guid: 22db209f30f604141b0d03216051b50d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3b9b15f96f56e6c4cb5d1af9b836a7aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cloudsplitter UC BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 25331f5a121e33d488bfe9cc1d8df9bd, type: 3}
+  - {fileID: 12800000, guid: f73f845ed9e0b294a9ecbc6a868bdaf9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

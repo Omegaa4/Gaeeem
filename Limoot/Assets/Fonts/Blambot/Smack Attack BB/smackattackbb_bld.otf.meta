@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4d632c7a7e6595d4b9db3331bd3e9d19
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SmackAttack BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 471c2ee8bd0a2f54abda032cf052ddda, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

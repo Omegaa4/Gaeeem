@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0ba6928894e588743806b6dd460169b8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HundredWatt BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 624967825b249d54a8c237981df3a77d, type: 3}
+  - {fileID: 12800000, guid: 373484633e598c44c834334e3efc5a7a, type: 3}
+  - {fileID: 12800000, guid: 265e27721e6a6db46a3789e639ad2943, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

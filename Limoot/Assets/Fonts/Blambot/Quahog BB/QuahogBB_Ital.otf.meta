@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 967f44b24bb7ee743b4eca2dbfccd1bb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Quahog BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c4f61269b4de0924b87c13a3bba9def6, type: 3}
+  - {fileID: 12800000, guid: 43875ba28b940634c93a8bb24cce2881, type: 3}
+  - {fileID: 12800000, guid: 53bd209362c4d654689923ee63014cd3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

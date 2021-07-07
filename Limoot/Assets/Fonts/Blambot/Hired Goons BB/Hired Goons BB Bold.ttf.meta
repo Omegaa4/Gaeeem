@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9a979e0a345be0d4399daa91d03cb4f6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hired Goons BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c830a6adc5b9f75498be366d8aa9fb52, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

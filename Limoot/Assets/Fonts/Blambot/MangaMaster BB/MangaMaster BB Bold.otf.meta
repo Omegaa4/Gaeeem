@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: db7966a1073ba6d4595b895d20264f7f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MangaMaster BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2497f90bb4b97447b7598864db0dcbf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d3ff71487962ac249b4ea83a6386b11c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bar Brawl BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 519ef8b9504767f419d177bf274ca801, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

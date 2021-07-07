@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d55ecaaa104ac6846af843bcf635ba43
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FoldandStaple BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 237f6326b7c7e574496627eeb12ec9f4, type: 3}
+  - {fileID: 12800000, guid: f462cf3a86f633e4395838cc9a78663c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7a5d6b645a6963c43a7bd9fcdeee3996
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DeadRinger BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a9ecbaf9a9453b642aa9c25aec9c8dc6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

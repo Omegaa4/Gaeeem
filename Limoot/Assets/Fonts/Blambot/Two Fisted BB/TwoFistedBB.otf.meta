@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6517318b9a0ed254291e34bd2d38ccc6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TwoFisted BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 139022243bde5bf499dbf6efc841a27d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

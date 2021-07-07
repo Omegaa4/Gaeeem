@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5eed99e8655e16d4abcedb16fde9968d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Brushzerker BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 929f6417a13aab84e9d0b66e2bbf430c, type: 3}
+  - {fileID: 12800000, guid: b60876b6724e6834e9340b787b55e2c8, type: 3}
+  - {fileID: 12800000, guid: 4ec15d9f5a65d4d4d8884c75d48a2cf7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

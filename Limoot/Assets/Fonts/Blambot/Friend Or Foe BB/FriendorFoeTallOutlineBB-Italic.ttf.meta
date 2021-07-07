@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f4cb4b916f38b53409e02d99323d6485
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FriendorFoeTallOutlineBB-Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 52bd0e8d4b0ea8f4b97174fb44e1f2aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

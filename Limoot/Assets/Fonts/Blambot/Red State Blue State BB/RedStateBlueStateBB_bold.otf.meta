@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3f163172702a2a547a45eca30e2ec97b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - RedStateBlueState BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62f3954ae584d71468ba0723556377ec, type: 3}
+  - {fileID: 12800000, guid: 1986443a691644b48a98437481454a8c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

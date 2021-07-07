@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2fd7d8dd615f3e34398baf8c5fb5bc51
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Inhuman BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 128fba153abfcbe4f8f9b213ba47f3cb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
