@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Education; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16333 MB
+OS: 'Windows 10 Education; OS build 19043.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16333 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,147 +11,892 @@ C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/66259/tilemap test
+E:/GitHub/tilemap test
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54281
-Successfully changed project path to: C:/Users/66259/tilemap test
-C:/Users/66259/tilemap test
+49968
+Successfully changed project path to: E:/GitHub/tilemap test
+E:/GitHub/tilemap test
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 31.45 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 32.41 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.3f1 (76626098c1c4)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/66259/tilemap test/Assets
+[Subsystems] Discovering subsystems at path E:/GitHub/tilemap test/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
     Vendor:   
     VRAM:     5980 MB
-    Driver:   27.21.14.6140
+    Driver:   30.0.14.7111
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56464
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56400
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001985 seconds.
+Registered in 0.002000 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 32.56 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 33.09 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.514 seconds
+- Completed reload, in  1.501 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000678 seconds.
+Registered in 0.000721 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 31.76 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 32.98 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.740 seconds
+- Completed reload, in  0.711 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 84.9 MB.
 System memory in use after: 84.9 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2252.
-Total: 1.824600 ms (FindLiveObjects: 0.214900 ms CreateObjectMapping: 0.048000 ms MarkObjects: 1.453800 ms  DeleteObjects: 0.107000 ms)
+Total: 2.327300 ms (FindLiveObjects: 0.320500 ms CreateObjectMapping: 0.054300 ms MarkObjects: 1.833200 ms  DeleteObjects: 0.117900 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Sprites/le cave sprite sheet lelol.png
-  artifactKey: Guid(a6e7de4593813d842bbd904bc0e5ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/le cave sprite sheet lelol.png using Guid(a6e7de4593813d842bbd904bc0e5ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb037fb7f8545af3be70a01de4941e3') in 0.095061 seconds
-  Import took 0.098253 seconds .
+  path: Assets/Art Files
+  artifactKey: Guid(1ba83bb754ec3ce4e80cb7bfecdbca40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art Files using Guid(1ba83bb754ec3ce4e80cb7bfecdbca40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942b05f84b0c0ddf93c2f41af070880c') in 0.006522 seconds
+  Import took 0.009166 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 191.818140 seconds.
-  path: Assets/Sprites/le cave sprite sheet lelol.png
-  artifactKey: Guid(a6e7de4593813d842bbd904bc0e5ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/le cave sprite sheet lelol.png using Guid(a6e7de4593813d842bbd904bc0e5ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7dcc034e0676e5b3292cae91db70ba6') in 0.013452 seconds
-  Import took 0.016944 seconds .
+  Time since last request: 0.000297 seconds.
+  path: Assets/Pallettes
+  artifactKey: Guid(65f1cac055a61c94f9dba91e2d1b8d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallettes using Guid(65f1cac055a61c94f9dba91e2d1b8d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b2cb00559d8c27b3e33ca3ad6a3685') in 0.002723 seconds
+  Import took 0.004906 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 98.860202 seconds.
-  path: Assets/Sprites/le cave sprite sheet lelol.png
-  artifactKey: Guid(a6e7de4593813d842bbd904bc0e5ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/le cave sprite sheet lelol.png using Guid(a6e7de4593813d842bbd904bc0e5ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7a735b2bf70bf744de2c3f3c26c014') in 0.099551 seconds
-  Import took 0.102439 seconds .
+  Time since last request: 0.579186 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(83bafcfb7d3cc2b44b16f3c26006d299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(83bafcfb7d3cc2b44b16f3c26006d299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '769d5a28c9a43268a3750364fa3fdede') in 0.004318 seconds
+  Import took 0.007448 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 645.788064 seconds.
-  path: Assets/Sprites/le cave sprite sheet lelol.png
-  artifactKey: Guid(a6e7de4593813d842bbd904bc0e5ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/le cave sprite sheet lelol.png using Guid(a6e7de4593813d842bbd904bc0e5ab7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff22aaeb55b178acaeebbab6601acf0') in 0.015974 seconds
-  Import took 0.018977 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.176444 seconds.
+  Time since last request: 0.106385 seconds.
   path: Assets/Sprites/2nd edition fused sprites.png
   artifactKey: Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/2nd edition fused sprites.png using Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e65f3fc12dfa5267c31c47ed20e4e9a') in 0.011369 seconds
-  Import took 0.014672 seconds .
+Start importing Assets/Sprites/2nd edition fused sprites.png using Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49882f8df19139023a6767d713849750') in 0.141844 seconds
+  Import took 0.144825 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000812 seconds.
-  path: Assets/Sprites/2nd edition fused sprites.png
-  artifactKey: Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/2nd edition fused sprites.png using Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e65f3fc12dfa5267c31c47ed20e4e9a') in 0.008858 seconds
-  Import took 0.010988 seconds .
+  Time since last request: 0.000284 seconds.
+  path: Assets/Sprites/sheet 1.png
+  artifactKey: Guid(f39df8075da90104fa587f45abeb7f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/sheet 1.png using Guid(f39df8075da90104fa587f45abeb7f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dea312c64d2eba3a5aca35170700c0a') in 0.249101 seconds
+  Import took 0.252247 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 22.295006 seconds.
-  path: Assets/Sprites/2nd edition fused sprites.png
-  artifactKey: Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/2nd edition fused sprites.png using Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61fcecfdf5c19528db524bb14a68a019') in 0.022912 seconds
-  Import took 0.026163 seconds .
+  Time since last request: 0.000363 seconds.
+  path: Assets/Sprites/sheet.png
+  artifactKey: Guid(d72dcdd906c727e47807da374c355f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/sheet.png using Guid(d72dcdd906c727e47807da374c355f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190b429eb568cfd7c78bfef892bd7b31') in 0.215199 seconds
+  Import took 0.218563 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.414193 seconds.
-  path: Assets/Sprites/2nd edition fused sprites.png
-  artifactKey: Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/2nd edition fused sprites.png using Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8869e325f1265a83ff37a561d08673') in 0.010243 seconds
-  Import took 0.013411 seconds .
+  Time since last request: 0.000344 seconds.
+  path: Assets/Sprites/fused final sheet 1.png
+  artifactKey: Guid(fa99ac9df6ad37d47bfe3c700b4f4ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/fused final sheet 1.png using Guid(fa99ac9df6ad37d47bfe3c700b4f4ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9407d9f42b08a953d4640ac00d763b24') in 0.048846 seconds
+  Import took 0.051558 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.005431 seconds.
-  path: Assets/Sprites/2nd edition fused sprites.png
-  artifactKey: Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/2nd edition fused sprites.png using Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8869e325f1265a83ff37a561d08673') in 0.006476 seconds
-  Import took 0.008943 seconds .
+  Time since last request: 0.000340 seconds.
+  path: Assets/Sprites/new not fused cave sprite sheet.png
+  artifactKey: Guid(7fb5ea37d5696094cb490030e37fc6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/new not fused cave sprite sheet.png using Guid(7fb5ea37d5696094cb490030e37fc6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1832e8ea24e2fa63a8c48c16633f046') in 0.007252 seconds
+  Import took 0.009955 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.711592 seconds.
-  path: Assets/Sprites/2nd edition fused sprites.png
-  artifactKey: Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/2nd edition fused sprites.png using Guid(7d7aa5489aa455646be95c3b0b1b7251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f525751d2f0fad808cb34cf85987df') in 0.066734 seconds
-  Import took 0.070100 seconds .
+  Time since last request: 0.000329 seconds.
+  path: Assets/Sprites/ffixedfusedfinalsheet.png
+  artifactKey: Guid(99f29914852714b4895c4b2d2827e7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ffixedfusedfinalsheet.png using Guid(99f29914852714b4895c4b2d2827e7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6ecf184d93cbf44fe468cad996316b') in 0.053219 seconds
+  Import took 0.056009 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2.549964 seconds.
+  path: Assets/Tiles
+  artifactKey: Guid(0b1ddc752a525cc4c8148218ce247b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles using Guid(0b1ddc752a525cc4c8148218ce247b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72decc50a0a564ed2d56ebd2096430d3') in 0.003926 seconds
+  Import took 0.006804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094307 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_0.asset
+  artifactKey: Guid(29f279018ba3f4440b301773ee4042e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_0.asset using Guid(29f279018ba3f4440b301773ee4042e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfdaed480b2433d24c0f2a1424ab2ab2') in 0.024246 seconds
+  Import took 0.027245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_11.asset
+  artifactKey: Guid(a67a7b9b4090960479f51ecff217a06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_11.asset using Guid(a67a7b9b4090960479f51ecff217a06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446a3c3ef70e67abc154d897bbe2ca60') in 0.011539 seconds
+  Import took 0.014344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_9.asset
+  artifactKey: Guid(bdad853f3649fe540a3eae321baa9d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_9.asset using Guid(bdad853f3649fe540a3eae321baa9d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e8903d2fe08ba76590666ad041e35f') in 0.017010 seconds
+  Import took 0.019860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_2.asset
+  artifactKey: Guid(71642bd6b6a83cf429b7c0602440c890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_2.asset using Guid(71642bd6b6a83cf429b7c0602440c890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d106729997caf2efd93f564816f665') in 0.010452 seconds
+  Import took 0.013014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_24.asset
+  artifactKey: Guid(d49d3901214a6f54783b65fb1a15d767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_24.asset using Guid(d49d3901214a6f54783b65fb1a15d767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb42fa01cceda0a6565738c2f11adb1d') in 0.012216 seconds
+  Import took 0.014793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_12.asset
+  artifactKey: Guid(32ce2396c80a6dc43bfc4b951cf36467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_12.asset using Guid(32ce2396c80a6dc43bfc4b951cf36467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d34226d6f3b33b392b6d63449c888b') in 0.015495 seconds
+  Import took 0.018443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_13.asset
+  artifactKey: Guid(2fb978715c6d93747aa0b05c29659ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_13.asset using Guid(2fb978715c6d93747aa0b05c29659ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2887120a3cd0a7980b434a0fb0696e8') in 0.009429 seconds
+  Import took 0.012245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_8.asset
+  artifactKey: Guid(40348b2867b440e4dbaf5303a5b27b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_8.asset using Guid(40348b2867b440e4dbaf5303a5b27b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380282ed376e6ec4a9afca52b98a5519') in 0.015222 seconds
+  Import took 0.017842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_2.asset
+  artifactKey: Guid(42e587ef602cdcf45873ff400720bcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_2.asset using Guid(42e587ef602cdcf45873ff400720bcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e0879eecc8df8586d06acf4be7258d') in 0.008736 seconds
+  Import took 0.011511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_27.asset
+  artifactKey: Guid(7a6e232bcbe0805449562306421ec8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_27.asset using Guid(7a6e232bcbe0805449562306421ec8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c62a0540e9db5cb75cde4ca14a384e') in 0.011369 seconds
+  Import took 0.013913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_31.asset
+  artifactKey: Guid(50efad0db941b6945a0834cd6d130dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_31.asset using Guid(50efad0db941b6945a0834cd6d130dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d84ef73557cb52aef86c1e46d139a11') in 0.012868 seconds
+  Import took 0.015603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_0.asset
+  artifactKey: Guid(7582d6f02fc77a548bed04f2bc0e23ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_0.asset using Guid(7582d6f02fc77a548bed04f2bc0e23ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c7cae0e9ae16a21f2d127274fbeccb') in 0.012987 seconds
+  Import took 0.015570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_6.asset
+  artifactKey: Guid(03c4144446d0a99489bd7dc43dcf46c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_6.asset using Guid(03c4144446d0a99489bd7dc43dcf46c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908040bc68b2e63e528bcd1b8ca61eea') in 0.007365 seconds
+  Import took 0.010272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_3.asset
+  artifactKey: Guid(6d6c1bfece5a87b4cbfb542a44851b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_3.asset using Guid(6d6c1bfece5a87b4cbfb542a44851b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219ca43b18886da325fd95a56b0f5872') in 0.013467 seconds
+  Import took 0.016319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_12.asset
+  artifactKey: Guid(72418c080be921b438f6653361e1f59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_12.asset using Guid(72418c080be921b438f6653361e1f59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de14412c52e06a70f902fe6c990bfd9') in 0.012856 seconds
+  Import took 0.015353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_21.asset
+  artifactKey: Guid(bf57afc8da97e4d4fa83cc755f325db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_21.asset using Guid(bf57afc8da97e4d4fa83cc755f325db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f70ba72b822c9be24da2d65a3e5b30') in 0.007614 seconds
+  Import took 0.010110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_15.asset
+  artifactKey: Guid(b4f3c077200babf488e9cfbd876d0e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_15.asset using Guid(b4f3c077200babf488e9cfbd876d0e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '985f24a536e771392c86467004c6d7d1') in 0.007027 seconds
+  Import took 0.009720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_5.asset
+  artifactKey: Guid(84b6f2bcd7990004b90fad8e37ae072c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_5.asset using Guid(84b6f2bcd7990004b90fad8e37ae072c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e922bc6bd5a2e8e79a51b495404903f') in 0.014320 seconds
+  Import took 0.016646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_7.asset
+  artifactKey: Guid(658c8a7f1d814664ba638dc9f20de6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_7.asset using Guid(658c8a7f1d814664ba638dc9f20de6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c5dc6281b4e337557e1886abff72a3') in 0.014214 seconds
+  Import took 0.016734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_29.asset
+  artifactKey: Guid(02181116dd1562f44bacd4724fd626ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_29.asset using Guid(02181116dd1562f44bacd4724fd626ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3430b25c3395068644d69c20902bf705') in 0.015700 seconds
+  Import took 0.018547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_15.asset
+  artifactKey: Guid(2fdda6d50a7544d4ea8de374df830579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_15.asset using Guid(2fdda6d50a7544d4ea8de374df830579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524994c49b2bc1810fd369572c8c5b8e') in 0.007242 seconds
+  Import took 0.009626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_17.asset
+  artifactKey: Guid(340449176e6c5b346aff26da50c7434f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_17.asset using Guid(340449176e6c5b346aff26da50c7434f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931825cf072b412709cfa8c742c7dd97') in 0.013595 seconds
+  Import took 0.016100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_20.asset
+  artifactKey: Guid(9b7e5be65b0c31846914fe62a410db96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_20.asset using Guid(9b7e5be65b0c31846914fe62a410db96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb396192deb7b1b227015294bcc293c') in 0.011238 seconds
+  Import took 0.013747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_1.asset
+  artifactKey: Guid(9f0d6ed975f1a104783d764c11b4b2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_1.asset using Guid(9f0d6ed975f1a104783d764c11b4b2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a84492440ad8058d2cb286f574efab1') in 0.010934 seconds
+  Import took 0.013366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_3.asset
+  artifactKey: Guid(382947c4a60a9d4499c4eb2bff320309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_3.asset using Guid(382947c4a60a9d4499c4eb2bff320309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2e35cf064f8dc7fd6a33b3101d53285') in 0.006954 seconds
+  Import took 0.009253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_22.asset
+  artifactKey: Guid(d66803c16dbd26b498dd5174b5141248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_22.asset using Guid(d66803c16dbd26b498dd5174b5141248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a344d2eafe41c3b65a93f9ecf90e95b') in 0.013859 seconds
+  Import took 0.016392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_1.asset
+  artifactKey: Guid(d6d80d6499277874e972997476823e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_1.asset using Guid(d6d80d6499277874e972997476823e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1cef7666be1cc802d04ffb08dced30') in 0.013789 seconds
+  Import took 0.016444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_7.asset
+  artifactKey: Guid(416d30cdf7838424496fffd3d1af1a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_7.asset using Guid(416d30cdf7838424496fffd3d1af1a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15dbc69c3bbcb46794fdb80da407811f') in 0.007291 seconds
+  Import took 0.009822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_13.asset
+  artifactKey: Guid(bf34ba52def554547b0ec0c604eb2313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_13.asset using Guid(bf34ba52def554547b0ec0c604eb2313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8f1dee385272998d03625c85b9bd5d') in 0.011211 seconds
+  Import took 0.013683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_25.asset
+  artifactKey: Guid(6171e5da7e71d34489d8609fec600995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_25.asset using Guid(6171e5da7e71d34489d8609fec600995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f68def51dc2fcc9eafb73263df683fcc') in 0.012402 seconds
+  Import took 0.014995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_10.asset
+  artifactKey: Guid(9d224f323565bc14db3907aa050ef46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_10.asset using Guid(9d224f323565bc14db3907aa050ef46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0e43d1d3b7f0f4ff7d67a77c0fa7e7') in 0.007406 seconds
+  Import took 0.010099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_16.asset
+  artifactKey: Guid(c2401d0a59fda19439bcdc7708be6b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_16.asset using Guid(c2401d0a59fda19439bcdc7708be6b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0faa673b4e041e8f043f85fc5342fd') in 0.013433 seconds
+  Import took 0.016250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_19.asset
+  artifactKey: Guid(f81b188e91589e04ca77d0ab57bdc94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_19.asset using Guid(f81b188e91589e04ca77d0ab57bdc94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7415993493ef967cfc38205869d64a') in 0.013697 seconds
+  Import took 0.016301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_14.asset
+  artifactKey: Guid(7ea8b432e84b4e14080847c85264377a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_14.asset using Guid(7ea8b432e84b4e14080847c85264377a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca7b22bef22e9a57100019ea8e0dcb3') in 0.008805 seconds
+  Import took 0.011494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_19.asset
+  artifactKey: Guid(f81b188e91589e04ca77d0ab57bdc94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_19.asset using Guid(f81b188e91589e04ca77d0ab57bdc94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7415993493ef967cfc38205869d64a') in 0.009823 seconds
+  Import took 0.012247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_23.asset
+  artifactKey: Guid(d22af5081a7596e46843171b633a65b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_23.asset using Guid(d22af5081a7596e46843171b633a65b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88fec1e7fd82d541f364177b75f6669') in 0.008149 seconds
+  Import took 0.010720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_19.asset
+  artifactKey: Guid(329b1ab3169d9064594f5fb707d8ba4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_19.asset using Guid(329b1ab3169d9064594f5fb707d8ba4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e597121fb3fb8a7770f32028e8d25411') in 0.010838 seconds
+  Import took 0.013356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_10.asset
+  artifactKey: Guid(e50f88c7b6357c94db85286a88569550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_10.asset using Guid(e50f88c7b6357c94db85286a88569550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46fde89fbe15fca2b55f903c02538b2') in 0.008235 seconds
+  Import took 0.010921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_16.asset
+  artifactKey: Guid(821a4aa1dc7855b4ead4c65624d5e92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_16.asset using Guid(821a4aa1dc7855b4ead4c65624d5e92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab97db9d04339271364fb33873e26b2') in 0.012823 seconds
+  Import took 0.015178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_9.asset
+  artifactKey: Guid(1dd9893faf5eefa408d2e94fa01bb337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_9.asset using Guid(1dd9893faf5eefa408d2e94fa01bb337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0983b911bd26bf038ca27dbe3115875') in 0.013529 seconds
+  Import took 0.015888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_14.asset
+  artifactKey: Guid(af6ce03cdab457e4ba743fdea1d32078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_14.asset using Guid(af6ce03cdab457e4ba743fdea1d32078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de0d076160014865c4e21500c1cb6bbd') in 0.007888 seconds
+  Import took 0.010141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_20.asset
+  artifactKey: Guid(36202f9885e14f249b75f9c92e06da7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_20.asset using Guid(36202f9885e14f249b75f9c92e06da7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d662f8886b4f5aa036006ce1b63c49') in 0.010232 seconds
+  Import took 0.012364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_18.asset
+  artifactKey: Guid(ee0b4bedb36611044a84043ede41b77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_18.asset using Guid(ee0b4bedb36611044a84043ede41b77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00fe6ef1874f2bcdec2e7303267b73eb') in 0.013342 seconds
+  Import took 0.015656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_28.asset
+  artifactKey: Guid(e017922612752af409596a02c36576b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_28.asset using Guid(e017922612752af409596a02c36576b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6106ecb22a758f2da68c7bcc79832f3b') in 0.016738 seconds
+  Import took 0.019141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_4.asset
+  artifactKey: Guid(5bc97013143c9ac4da80dba899b48bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_4.asset using Guid(5bc97013143c9ac4da80dba899b48bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4024a122755ced270fe5446e42c80458') in 0.013397 seconds
+  Import took 0.016201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_8.asset
+  artifactKey: Guid(53d2364ede939994a8894966b6030ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_8.asset using Guid(53d2364ede939994a8894966b6030ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4ecd99ba8becade4f2a5b34f778b3f') in 0.010740 seconds
+  Import took 0.013247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_4.asset
+  artifactKey: Guid(1b9bf8325b9073640b26a151a6ac56c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_4.asset using Guid(1b9bf8325b9073640b26a151a6ac56c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe3662453f96ada5b8d2e15379fd1e6') in 0.010229 seconds
+  Import took 0.012906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_17.asset
+  artifactKey: Guid(332705584b762a14d9ef05b6e620d65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_17.asset using Guid(332705584b762a14d9ef05b6e620d65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118f398afeb356c1f1a66253380c2a7c') in 0.011367 seconds
+  Import took 0.013771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_18.asset
+  artifactKey: Guid(611a53f69bfbd904fbf1b6ae65ef0a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_18.asset using Guid(611a53f69bfbd904fbf1b6ae65ef0a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2007a77b54626a40c39fef72fbdfe65f') in 0.014209 seconds
+  Import took 0.016598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_6.asset
+  artifactKey: Guid(343980d1991731c4b9df025fb6b8e6a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_6.asset using Guid(343980d1991731c4b9df025fb6b8e6a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f423062e9b9173c6b284565136b2b105') in 0.007539 seconds
+  Import took 0.010014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_11.asset
+  artifactKey: Guid(671ecb4e66ed43e4ca3fdcd98295b5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_11.asset using Guid(671ecb4e66ed43e4ca3fdcd98295b5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf24af6bc31e340fcbe8314d4196408') in 0.006574 seconds
+  Import took 0.009362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_5.asset
+  artifactKey: Guid(51eca42a8504c96448dce67311ab8d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_5.asset using Guid(51eca42a8504c96448dce67311ab8d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5feaef01f736417790848944b8735465') in 0.006739 seconds
+  Import took 0.009017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_26.asset
+  artifactKey: Guid(d230268140fc46c45a47ee1656b51436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_26.asset using Guid(d230268140fc46c45a47ee1656b51436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7d8b321305f6d827244f1493eeaaaf') in 0.011937 seconds
+  Import took 0.014411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Tiles/2nd edition fused sprites_30.asset
+  artifactKey: Guid(c8b89898df51f7c419696731bab3a592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/2nd edition fused sprites_30.asset using Guid(c8b89898df51f7c419696731bab3a592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9cc099aca03229b6dc62b5743b3798') in 0.010833 seconds
+  Import took 0.013597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200576 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_21.asset
+  artifactKey: Guid(301f1e55b55c9dd4b933ac9839def134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_21.asset using Guid(301f1e55b55c9dd4b933ac9839def134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a9a0336e0ff1c6c8facb1caa92e926') in 0.009250 seconds
+  Import took 0.012042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_22.asset
+  artifactKey: Guid(dba1c420640932a4f8071ac0f5894f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_22.asset using Guid(dba1c420640932a4f8071ac0f5894f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55172a9a3eba254a0b581af857de7773') in 0.011062 seconds
+  Import took 0.013702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_23.asset
+  artifactKey: Guid(3ff6381443576df499dbd908c68d698c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_23.asset using Guid(3ff6381443576df499dbd908c68d698c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b97a0c99cf4e80b128fd05cfba66503') in 0.007130 seconds
+  Import took 0.009898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_30.asset
+  artifactKey: Guid(a5232f1474e39674b850b573b9b0417d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_30.asset using Guid(a5232f1474e39674b850b573b9b0417d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3bd35a701a56376bbbf54833349cbfc') in 0.013594 seconds
+  Import took 0.016439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_33.asset
+  artifactKey: Guid(9a68aa9b065becd4687e3ed35db64cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_33.asset using Guid(9a68aa9b065becd4687e3ed35db64cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938ff99887555bc5fffdbac2a64cd8e4') in 0.012665 seconds
+  Import took 0.015083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_25.asset
+  artifactKey: Guid(6f29c182cc81e9b4eaaba83e1f7e1db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_25.asset using Guid(6f29c182cc81e9b4eaaba83e1f7e1db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846ccc2c5dd4f33ed09c5dcf9db2e850') in 0.011137 seconds
+  Import took 0.013494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Tiles/fused final sheet_2.asset
+  artifactKey: Guid(9bc9125aa8d10cd4b8df6336a160a93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_2.asset using Guid(9bc9125aa8d10cd4b8df6336a160a93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d809baaca7a8efb2de83a5c6668d81') in 0.004029 seconds
+  Import took 0.006664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Tiles/fused final sheet_3.asset
+  artifactKey: Guid(836676532b5bfb9438ce4c074a31ca1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_3.asset using Guid(836676532b5bfb9438ce4c074a31ca1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63562fc0ed31dc7d1524fd5651121bcc') in 0.003474 seconds
+  Import took 0.005789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Tiles/fused final sheet_4.asset
+  artifactKey: Guid(d2450f25284425c44b6f8bb2cec4f0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_4.asset using Guid(d2450f25284425c44b6f8bb2cec4f0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b22392d5a1052a26d18cf9fcc16d2dce') in 0.004091 seconds
+  Import took 0.006500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Tiles/fused final sheet_18.asset
+  artifactKey: Guid(1831c2d5d2e9966469ea693fe76312d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_18.asset using Guid(1831c2d5d2e9966469ea693fe76312d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '767ab4d8652950d7255e7a50599aef37') in 0.003511 seconds
+  Import took 0.005642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Tiles/fused final sheet_15.asset
+  artifactKey: Guid(5f8b29d3580c30c439279b536d0d3175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_15.asset using Guid(5f8b29d3580c30c439279b536d0d3175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70ba75ac747013cc0e0ea7694630a8f') in 0.003238 seconds
+  Import took 0.005361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Tiles/fused final sheet_20.asset
+  artifactKey: Guid(595a9302b318acc42b96b3fbf6faf50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_20.asset using Guid(595a9302b318acc42b96b3fbf6faf50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3325be4e75271029ec1d2dfba7f022a7') in 0.003808 seconds
+  Import took 0.005782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tiles/fused final sheet_13.asset
+  artifactKey: Guid(393d6bac1e7fa324b934e34b8d8365b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_13.asset using Guid(393d6bac1e7fa324b934e34b8d8365b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46dd732d56f3c8eb77a70e9cc12b2a26') in 0.003436 seconds
+  Import took 0.005817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_35.asset
+  artifactKey: Guid(4af88bffb51582248b59daf0dcc95d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_35.asset using Guid(4af88bffb51582248b59daf0dcc95d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5e4f1a996c4bf8ccf3c130362cab658') in 0.006740 seconds
+  Import took 0.009087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Tiles/fused final sheet_8.asset
+  artifactKey: Guid(e686b39d61ddbf542a1507e2da136b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_8.asset using Guid(e686b39d61ddbf542a1507e2da136b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675275b7251344bcec10f4f4f4e19f5d') in 0.003662 seconds
+  Import took 0.006144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_36.asset
+  artifactKey: Guid(bb402aaf7bffd994da7cb5cb03f5b8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_36.asset using Guid(bb402aaf7bffd994da7cb5cb03f5b8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa69d917a9461c85f594d4a95891f16') in 0.006694 seconds
+  Import took 0.008936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Tiles/fused final sheet_10.asset
+  artifactKey: Guid(192e123e23827344ba2376f2061ba9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_10.asset using Guid(192e123e23827344ba2376f2061ba9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f717b4673b8fab9e6748bf25977d518f') in 0.004098 seconds
+  Import took 0.006300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Tiles/fused final sheet_16.asset
+  artifactKey: Guid(427541af82a7f2c498f9da2dcb2c3ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_16.asset using Guid(427541af82a7f2c498f9da2dcb2c3ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b3dc8695755bbb0c33264ce2900972') in 0.003388 seconds
+  Import took 0.005614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Tiles/fused final sheet_9.asset
+  artifactKey: Guid(3d2c22d5850936847bb6d69e5742b8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_9.asset using Guid(3d2c22d5850936847bb6d69e5742b8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26e6f0d991b7321c58d1ad3ce54a714') in 0.010443 seconds
+  Import took 0.012805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_31.asset
+  artifactKey: Guid(6879a9d3acf2c4048a4bd2d183399f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_31.asset using Guid(6879a9d3acf2c4048a4bd2d183399f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee8abdc782452b95fe3fc098ea962a41') in 0.013299 seconds
+  Import took 0.016117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Tiles/fused final sheet_5.asset
+  artifactKey: Guid(9a133ddb18a01bf46a60ce300ba469ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_5.asset using Guid(9a133ddb18a01bf46a60ce300ba469ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1547a11120797f18b85a6442ad58add8') in 0.004473 seconds
+  Import took 0.006888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Tiles/fused final sheet_11.asset
+  artifactKey: Guid(d97d6770211bafd419055543988f0bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_11.asset using Guid(d97d6770211bafd419055543988f0bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30fcd98bf6e4da1aff34b8a7804b9944') in 0.003569 seconds
+  Import took 0.005657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Tiles/fused final sheet_21.asset
+  artifactKey: Guid(804611e3726d12640bb2361b856a0289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_21.asset using Guid(804611e3726d12640bb2361b856a0289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0603334d1bee92cd091f659e3e31388') in 0.003751 seconds
+  Import took 0.005767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Tiles/fused final sheet_14.asset
+  artifactKey: Guid(3817303fd21006847bd25f4755d63c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_14.asset using Guid(3817303fd21006847bd25f4755d63c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f19ee01e5531fc80e258e142a5aa43') in 0.003687 seconds
+  Import took 0.006114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_27.asset
+  artifactKey: Guid(a8d7030169a70534d8245072219ccedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_27.asset using Guid(a8d7030169a70534d8245072219ccedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79df705d2a807e8b95c657b511c0a0a7') in 0.012875 seconds
+  Import took 0.015343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Tiles/fused final sheet_1.asset
+  artifactKey: Guid(9742d69a5a27f184c82906d9d119c82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_1.asset using Guid(9742d69a5a27f184c82906d9d119c82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac4d5836bc6fb15694d196f7d15f6b12') in 0.003791 seconds
+  Import took 0.006102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_29.asset
+  artifactKey: Guid(ca0dd679cb547fe428ec5e7ea5399c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_29.asset using Guid(ca0dd679cb547fe428ec5e7ea5399c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1bee92b957cca39c4a9bc3457976d55') in 0.010636 seconds
+  Import took 0.013025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_32.asset
+  artifactKey: Guid(6f2ed22ed0bd0f14d81c9421082f4ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_32.asset using Guid(6f2ed22ed0bd0f14d81c9421082f4ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842cfe69a7552c5432dbacc092db5f1f') in 0.010854 seconds
+  Import took 0.013177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_24.asset
+  artifactKey: Guid(e0c93d220b281864d98ebc47486195a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_24.asset using Guid(e0c93d220b281864d98ebc47486195a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b17f7d41ef4f1076bacc775af31f6a') in 0.014027 seconds
+  Import took 0.016417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Tiles/fused final sheet_0.asset
+  artifactKey: Guid(352214378f754274bb1cb248e78bd4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_0.asset using Guid(352214378f754274bb1cb248e78bd4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f35fbe34b89cb4c2ab150871ed59ea0') in 0.003821 seconds
+  Import took 0.006169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_28.asset
+  artifactKey: Guid(e98682233de40594d9668e014d639cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_28.asset using Guid(e98682233de40594d9668e014d639cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8cf44810d9f4ba8da74af822d1abfca') in 0.013156 seconds
+  Import took 0.015817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_37.asset
+  artifactKey: Guid(658f4677e9dd5964193a10fc71f054cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_37.asset using Guid(658f4677e9dd5964193a10fc71f054cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbaa651cd6517b99c2cc362515c01407') in 0.010949 seconds
+  Import took 0.013891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Tiles/fused final sheet_6.asset
+  artifactKey: Guid(c8635f70c4e15ed4ca6820c47f127b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_6.asset using Guid(c8635f70c4e15ed4ca6820c47f127b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5199470f670e1e6d5ef53a6686a829cd') in 0.003288 seconds
+  Import took 0.005883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Tiles/fused final sheet_17.asset
+  artifactKey: Guid(245fa3de570b7ee418c455b6e7d83418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_17.asset using Guid(245fa3de570b7ee418c455b6e7d83418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '530d4a8dcd04cbb7ab4932829a6a57d6') in 0.003622 seconds
+  Import took 0.005909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Tiles/fused final sheet_12.asset
+  artifactKey: Guid(922e3622d59ffbb459dcdd9a5f7a768a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_12.asset using Guid(922e3622d59ffbb459dcdd9a5f7a768a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29f8ef6c13b602ea5ffbce4d17a6800') in 0.003592 seconds
+  Import took 0.006141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_34.asset
+  artifactKey: Guid(b5e10020c2d8c2b4394f311eb8442c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_34.asset using Guid(b5e10020c2d8c2b4394f311eb8442c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2304e92a45bb329a4ec6ee85ebfdfe1c') in 0.010886 seconds
+  Import took 0.013276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Tiles/ffixedfusedfinalsheet_26.asset
+  artifactKey: Guid(1fa4c14e3d445e745b549c2994dbe894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/ffixedfusedfinalsheet_26.asset using Guid(1fa4c14e3d445e745b549c2994dbe894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffe961e41f556d0de6074a75a47c2f3') in 0.013012 seconds
+  Import took 0.015503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Tiles/fused final sheet_19.asset
+  artifactKey: Guid(755bd58241a364f4a999fd95f2f5347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_19.asset using Guid(755bd58241a364f4a999fd95f2f5347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbd157508cf278c863e936668085a006') in 0.003562 seconds
+  Import took 0.005976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Tiles/fused final sheet_7.asset
+  artifactKey: Guid(7eddd5f92cd7d844c9d105e96de42d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/fused final sheet_7.asset using Guid(7eddd5f92cd7d844c9d105e96de42d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '610ad5be11783fcc84d9bc21151b15ee') in 0.003687 seconds
+  Import took 0.006094 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
