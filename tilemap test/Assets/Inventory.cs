@@ -6,4 +6,7 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour
 {
     public bool[] isFull;       //A boolean array that is used to check if an inventory slot is full or empty
+    public GameObject[] slots; //Array for referencing the slots 
+    
+
 }
