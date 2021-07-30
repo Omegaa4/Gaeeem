@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: db46d28ffbff920469e786a7831d9b40
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BeardedLadyBB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7498338e938fcf24db0287477d57b5fc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dbebe2e47e5f41b48afaca96e2eb5828
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Toonacious BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a00185bd4d2b09547b0135a91de00b8b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

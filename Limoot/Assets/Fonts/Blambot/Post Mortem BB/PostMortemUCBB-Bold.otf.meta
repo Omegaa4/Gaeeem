@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1a42df834b602c844b853e8775ade256
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PostMortem UC BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e06132677ea9b0249a94365f578f664a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

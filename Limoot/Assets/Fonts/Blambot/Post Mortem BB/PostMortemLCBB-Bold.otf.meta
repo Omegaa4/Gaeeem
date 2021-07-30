@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c5b32b2d713684a4380f5830e6a16720
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PostMortem LC BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 043ae07778063d24e862905a6041b531, type: 3}
+  - {fileID: 12800000, guid: 109552b1275e98a4a8db98d24cc61683, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

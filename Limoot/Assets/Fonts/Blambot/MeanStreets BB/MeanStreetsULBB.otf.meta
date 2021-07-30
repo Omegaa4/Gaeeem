@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 89af62d1e6e117f4b979045f5f28eda7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MeanStreets UL BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 29b1bd4e14c6e5147a3a7280fe6b38a5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

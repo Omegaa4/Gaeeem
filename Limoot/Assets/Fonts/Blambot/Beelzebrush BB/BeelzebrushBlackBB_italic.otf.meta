@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 421c5b0ee40085641a7578b57524794a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Beelzebrush Black BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30c2c724cc1211741b9617fc306d2090, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6bde9f7eba2ee494694cbbd97273db3e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Atland BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2676e8600d9dba498bd269a3c45c00f, type: 3}
+  - {fileID: 12800000, guid: 119cf83af9b8e964489d078b5316aa5a, type: 3}
+  - {fileID: 12800000, guid: b4e1e0212d13de34290aeae852eaa521, type: 3}
+  - {fileID: 12800000, guid: 56f18ea90bd49b0459e952d0ff48e117, type: 3}
+  - {fileID: 12800000, guid: 6559dddee0aa47146b234d8003ed7682, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

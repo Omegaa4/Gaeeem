@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5791194229f04c045922a7a7db669fb8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tokyo Robot Intl BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33697445bad7ffb4a9485f81b7cc8545, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

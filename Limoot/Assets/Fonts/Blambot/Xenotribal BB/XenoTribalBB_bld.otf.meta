@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fc8ba8bd0b06b14458530be1e379f9cd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - XenoTribal BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80cc00600d8e5a340ad92b929d9cc0b1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
